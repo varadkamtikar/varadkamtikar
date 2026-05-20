@@ -8,6 +8,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=githubpages&logoColor=2F81F7)](https://varadkamtikar.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varadkamtikar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varadkamtikar)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadkamtikar99@gmail.com)
@@ -229,8 +230,8 @@ varad = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varadkamtikar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadkamtikar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=varadkamtikar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=varadkamtikar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 
 </div>
 
@@ -268,6 +269,18 @@ varad = {
 - 📚 Deepening skills in **MLOps**, **cloud-native ML pipelines**, and **deep learning**
 - 🤝 Actively **open to Data Science, Data Analytics, and ML Engineering roles** in Ireland
 - 💬 Happy to collaborate on open-source data science or ML projects
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+
+> **Want the full picture?** My portfolio site has live project demos, detailed work history, skills breakdown, and contact info — all in one place.
+
+[![View Full Portfolio](https://img.shields.io/badge/View%20Full%20Portfolio%20→-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://varadkamtikar.github.io/Portfolio/)
+
+</div>
 
 ---
 
