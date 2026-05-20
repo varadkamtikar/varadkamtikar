@@ -24,18 +24,47 @@ I'm a **Data Scientist** based in **Dublin, Ireland 🇮🇪**, combining hands-
 
 With **2.5 years at Accenture** working on large-scale insurance data systems, and an **MSc in Data Science** from Technological University Dublin (with a dissertation at the intersection of AI and neuroscience), I bring both real-world production experience and cutting-edge research skills to data problems.
 
-```python
-varad = {
-    "location"     : "Dublin, Ireland 🇮🇪",
-    "education"    : "MSc Data Science — Technological University Dublin",
-    "experience"   : "2.5 years @ Accenture | Insurance Domain | Mainframe + SQL",
-    "dissertation" : "AI-Based EEG Neural Pattern Detection using ML",
-    "certifications": ["Microsoft Azure AZ-900"],
-    "interests"    : ["Generative AI", "Agentic AI", "RAG", "LangChain", "LlamaIndex", "ML", "Data Analytics"],
-    "looking_for"  : "Data Scientist | ML Engineer | AI Engineer roles in Ireland",
-    "open_to_work" : True
-}
-```
+<table>
+  <tr>
+    <td>📍 <strong>Location</strong></td>
+    <td>Dublin, Ireland 🇮🇪</td>
+  </tr>
+  <tr>
+    <td>🎓 <strong>Education</strong></td>
+    <td>MSc Data Science — Technological University Dublin <em>(Jan 2026)</em></td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Experience</strong></td>
+    <td>2.5 years @ Accenture · Insurance Domain · Mainframe + SQL</td>
+  </tr>
+  <tr>
+    <td>🧠 <strong>Dissertation</strong></td>
+    <td>AI-Based EEG Neural Pattern Detection using ML</td>
+  </tr>
+  <tr>
+    <td>📜 <strong>Certifications</strong></td>
+    <td>Microsoft Azure AZ-900</td>
+  </tr>
+  <tr>
+    <td>🔬 <strong>Interests</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square&logo=anthropic&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-2F81F7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Looking For</strong></td>
+    <td>Data Scientist · ML Engineer · AI Engineer roles in Ireland</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Status</strong></td>
+    <td><img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=checkmarx&logoColor=white"/></td>
+  </tr>
+</table>
 
 ---
 
