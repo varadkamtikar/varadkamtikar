@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=MSc+Data+Science+%40+TU+Dublin+%F0%9F%8E%93+%7C+Graduated+2025;Ex-Accenture+%7C+2.5+Years+Industry+Experience;Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;EEG+%2B+AI+Research+%7C+Python+%7C+SQL+%7C+ML;Open+to+Full-Time+Roles+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=MSc+Data+Science+%40+TU+Dublin+%F0%9F%8E%93+%7C+Graduated+2026;Ex-Accenture+%7C+2.5+Years+Industry+Experience;Data+Scientist+%7C+ML+Engineer+%7C+Data+Analyst;EEG+%2B+AI+Research+%7C+Python+%7C+SQL+%7C+ML;Open+to+Full-Time+Roles+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/><br/>
 
