@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=MSc+Data+Science+%40+TU+Dublin+%F0%9F%8E%93;Ex-Accenture+%7C+2.5+Years+Industry+Experience;EEG+%2B+AI+Research+%7C+ML+%7C+Python+%7C+SQL;Open+to+Data+Roles+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=MSc+Data+Science+%40+TU+Dublin+%F0%9F%8E%93+%28Jan+2026%29;Ex-Accenture+%7C+2.5+Years+Industry+Experience;Generative+AI+%7C+Agentic+AI+%7C+RAG+%7C+LangChain;Open+to+AI+%26+Data+Roles+in+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -31,8 +31,8 @@ varad = {
     "experience"   : "2.5 years @ Accenture | Insurance Domain | Mainframe + SQL",
     "dissertation" : "AI-Based EEG Neural Pattern Detection using ML",
     "certifications": ["Microsoft Azure AZ-900"],
-    "interests"    : ["Machine Learning", "Data Analytics", "EEG / BCI", "MLOps"],
-    "looking_for"  : "Data Scientist | Data Analyst | ML Engineer roles in Ireland",
+    "interests"    : ["Generative AI", "Agentic AI", "RAG", "LangChain", "LlamaIndex", "ML", "Data Analytics"],
+    "looking_for"  : "Data Scientist | ML Engineer | AI Engineer roles in Ireland",
     "open_to_work" : True
 }
 ```
@@ -265,10 +265,11 @@ varad = {
 
 ## 🌱 Currently
 
-- 🔭 Finishing my **MSc Dissertation** on AI-based EEG classification at TU Dublin
-- 📚 Deepening skills in **MLOps**, **cloud-native ML pipelines**, and **deep learning**
-- 🤝 Actively **open to Data Science, Data Analytics, and ML Engineering roles** in Ireland
-- 💬 Happy to collaborate on open-source data science or ML projects
+- 🎓 Completed my **MSc in Data Science** from Technological University Dublin — January 2026
+- 🤖 Upskilling in **Generative AI** and **Agentic AI** — RAG pipelines, LangChain, LlamaIndex, vector databases, and LLM orchestration
+- 🔭 Building hands-on projects at the intersection of **AI agents**, **retrieval-augmented generation**, and real-world data applications
+- 🤝 Actively **open to Data Science, Data Analytics, and ML/AI Engineering roles** in Ireland
+- 💬 Happy to collaborate on open-source AI, LLM, or data science projects
 
 ---
 
